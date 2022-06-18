@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+  <wallpaper>
+    <name>CYBINT Blue Cyclone</name>
+    <filename>/usr/share/backgrounds/cybint/blue-cyclone.xml</filename>
+    <options>zoom</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+  <wallpaper>
+    <name>CYBINT Fallen Sky</name>
+    <filename>/usr/share/backgrounds/cybint/fallen-sky.xml</filename>
+    <options>zoom</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+  <wallpaper>
+    <name>CYBINT Gathering Storm</name>
+    <filename>/usr/share/backgrounds/cybint/gathering-storm.xml</filename>
+    <options>zoom</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+</wallpapers>

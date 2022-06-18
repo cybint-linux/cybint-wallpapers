@@ -1,0 +1,26 @@
+# production
+/build
+*.build
+*.deb
+*.dsc
+*.buildinfo
+*.changes
+*.tar.gz
+
+# misc
+.DS_Store
+
+# Editors
+.idea/
+.vscode/
+
+wallpaper/wallpapers
+wallpaper/backgrounds/cybint-16x10
+wallpaper/backgrounds/cybint-16x9
+wallpaper/backgrounds/cybint-4x3
+
+debhelper-build-stamp
+cybint-wallpapers.substvars
+debian/cybint-wallpapers
+debian/.debhelper
+debian/files
